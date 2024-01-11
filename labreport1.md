@@ -44,7 +44,7 @@ No error.
 
 <br>
 
-![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-10%20at%203.27.07%20PM.png?raw=true)
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-11%20at%2011.06.35%20AM.png?raw=true)
 
 The working directory when the command was run was no directory, or home. The command cd lecture1 sent me to the lecture1 directory. This contained another directory and some files. I got that output because cd sends the user to whatever directory is provided as an argument. In this case the command took us to lecture1. No error.
 
