@@ -66,7 +66,7 @@ No error.
 `no argument`
 
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-11%20at%2011.34.13%20AM.png?raw=true)
-![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-11%20at%2011.34.13%20AM.png?raw=true)
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-11%20at%2011.34.16%20AM.png?raw=true)
 
 The working directory when the command was run was lecture1, which contained a directory and some files. 
 I got the output of all of the contents within lecture1. So the command basically lists everything within a directory. In this case the command listed everything within lecture1. 
