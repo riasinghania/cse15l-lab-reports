@@ -78,7 +78,7 @@ No error.
 
 <br>
 
-![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-11%20at%2011.06.35%20AM.png?raw=true)
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-11%20at%2011.29.51%20AM.png?raw=true)
 
 The working directory when the command was run was lecture1, which contained a directory and some files. 
 I got the output of all of the contents within messages because I provided messages, a directory, as an argument after ls. So the command basically lists everything within a given directory. In this case the command listed everything within messages. 
