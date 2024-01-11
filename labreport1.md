@@ -59,3 +59,36 @@ No error.
 The working directory when the command was run was messages, which contained some files. By using ls es-mx.txt, the output was the name of the file.
 So the command basically outputs the name of the file provided. In this case it was es-mx.txt. No error.
 No error. 
+
+# **cat**
+<br>
+
+`no argument`
+
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-11%20at%2011.06.20%20AM.png?raw=true)
+
+The working directory when the command was run was lecture1, which contained a directory and some files. 
+I got the output of all of the contents within lecture1. So the command basically lists everything within a directory. In this case the command listed everything within lecture1. 
+No error. 
+
+<br>
+
+`to a directory`
+
+<br>
+
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-11%20at%2011.06.35%20AM.png?raw=true)
+
+The working directory when the command was run was lecture1, which contained a directory and some files. 
+I got the output of all of the contents within messages because I provided messages, a directory, as an argument after ls. So the command basically lists everything within a given directory. In this case the command listed everything within messages. 
+No error. 
+
+<br>
+
+`to a file`
+
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-11%20at%2011.07.44%20AM.png?raw=true)
+
+The working directory when the command was run was messages, which contained some files. By using ls es-mx.txt, the output was the name of the file.
+So the command basically outputs the name of the file provided. In this case it was es-mx.txt. No error.
+No error.
