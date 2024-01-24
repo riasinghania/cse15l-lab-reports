@@ -39,8 +39,12 @@ class ChatServer {
     }
 }
 ```
-<Pictures of using add message>
-    
+<Pictures of using add message> 
+
+Specific comand: `\add-message?s=I am Ria&user=Ria`
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-24%20at%203.26.44%20PM.png?raw=true) 
+
+Specific comand: `\add-message?s=Hey, I'm Tess&user=Tess`
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-24%20at%203.26.58%20PM.png?raw=true)
 
 
