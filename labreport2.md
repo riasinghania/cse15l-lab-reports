@@ -39,9 +39,8 @@ class ChatServer {
     }
 }
 ```
+<Pictures of using add message>
+    
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-24%20at%203.26.58%20PM.png?raw=true)
 
-![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-10%20at%203.33.31%20PM.png?raw=true)
 
-The working directory when the command was run was `lecture1`, which contained its own directory within it. 
-I got the output of sending me home because when there is no argument the `cd` command just sends you out of all directories. So the command basically cleared the directories within the command line, sends you `home`. In this case the command took us out of `lecture1`. 
-No error. 
