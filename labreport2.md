@@ -39,12 +39,24 @@ class ChatServer {
     }
 }
 ```
-<Pictures of using add message> 
+# Pictures of using add message> 
 
-Specific comand: `\add-message?s=I am Ria&user=Ria`
+`\add-message?s=I am Ria&user=Ria`
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-24%20at%203.26.44%20PM.png?raw=true) 
+* Specific method used was the `add-message:<string>&user:<string>` 
+* The values for the two `<string>` arguments were `I am Ria` and `Ria`
+* The string I use to keep track of all the chats, `output`,  increased.
+* The different arrays like `parameters1` reset each time I use a command.
 
-Specific comand: `\add-message?s=Hey, I'm Tess&user=Tess`
+`\add-message?s=Hey, I'm Tess&user=Tess`
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-24%20at%203.26.58%20PM.png?raw=true)
+* Specific method used was the `add-message:<string>&user:<string>` 
+* The arguments for the two `<string>` arguments  were `Hey, I'm Tess` and `Tess`
+* The string I use to keep track of all the chats, `output`, increased again.
+* The different arrays like `parameters1` reset each time I use a command.
+
+
+
+
 
 
