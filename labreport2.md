@@ -1,5 +1,5 @@
 ## *Ria Singhania, A17331656*
-# ChatServer code
+# Part 1
 ```
 import java.io.IOException;
 import java.net.URI;
@@ -39,7 +39,7 @@ class ChatServer {
     }
 }
 ```
-# Pictures of using add message> 
+# Pictures of using `add message`
 
 `\add-message?s=I am Ria&user=Ria`
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-24%20at%203.26.44%20PM.png?raw=true) 
@@ -54,6 +54,14 @@ class ChatServer {
 * The arguments for the two `<string>` arguments  were `Hey, I'm Tess` and `Tess`
 * The string I use to keep track of all the chats, `output`, increased again.
 * The different arrays like `parameters1` reset each time I use a command.
+
+# Part 2
+# Logging into ssh account without being asked for password
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-24%20at%204.36.07%20PM.png?raw=true)
+
+# Part 3
+So far Lab has been very helpful for learning how to navigate terminal and my computer much more efficiently. I have learned how to see what directory I am via the `ls` command. Also this past week of working with servers has been super interesting. Understanding how to get queries from a URL has been valuable. I am now able to create servers that keep the information in them and when you use different commands it will still keep the old stuff. 
+
 
 
 
