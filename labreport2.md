@@ -59,7 +59,7 @@ class ChatServer {
 # private key
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%2010.20.40%20PM.png?raw=true)
 # public key 
-![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-24%20at%204.36.07%20PM.png?raw=true)
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%2010.15.18%20PM.png?raw=true)
 # Logging into ssh account without being asked for password
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-24%20at%204.36.07%20PM.png?raw=true)
 
