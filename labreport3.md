@@ -126,3 +126,5 @@ find ./technical -type f
 ./technical/government
 ./technical/government/Alcohol_Problems
  ```
+
+**`-atime <n>`**
