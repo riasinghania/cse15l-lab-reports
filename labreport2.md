@@ -43,17 +43,21 @@ class ChatServer {
 
 `\add-message?s=I am Ria&user=Ria`
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-24%20at%203.26.44%20PM.png?raw=true) 
-* Specific method used was the `add-message:<string>&user:<string>` 
-* The values for the two `<string>` arguments were `I am Ria` and `Ria`
-* The string I use to keep track of all the chats, `output`,  increased.
+* Specific method used was the `add-message=<string>&user=<string>`
+* The code worked by taking the arguments put in for `add-message=I am Ria` and `user=Ria` 
+* It took these values then kept track of them in a string called `output`
+* Because I used a string it was able to keep the previous information. 
 * The different arrays like `parameters1` reset each time I use a command.
+* The only value that increased was the string output.
 
 `\add-message?s=Hey, I'm Tess&user=Tess`
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-24%20at%203.26.58%20PM.png?raw=true)
-* Specific method used was the `add-message:<string>&user:<string>` 
-* The arguments for the two `<string>` arguments  were `Hey, I'm Tess` and `Tess`
-* The string I use to keep track of all the chats, `output`, increased again.
+* Specific method used was the `add-message=<string>&user=<string>`
+* The code worked by taking the arguments put in for `add-message=Hey, I'm Tess` and `user=Tess` 
+* It took these values then kept track of them in a string called `output`
+* Because I used a string it was able to keep the previous information. 
 * The different arrays like `parameters1` reset each time I use a command.
+* The only value that increased was the string output.
 
 # Part 2
 # private key
