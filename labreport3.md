@@ -174,8 +174,13 @@ output:
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-02-13%20at%2010.06.30%20AM.png?raw=true)
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-02-13%20at%2010.06.40%20AM.png?raw=true)
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-02-13%20at%2010.06.50%20AM.png?raw=true)
+ I changed this by picking the specific examples of `iname, type, size, and name`. 
+
+
+ 
  ```
 Can you show an example of using the search by size search in the command line
  ```
 output
-![Image]()
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-02-13%20at%2010.12.56%20AM.png?raw=true)
+ I changed this by picking the specific examples of putting the path I wanted to use as`./technical`. 
