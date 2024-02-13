@@ -52,7 +52,7 @@ The alternatives I found via chatGPT:
 1. case insensitive name search: `-iname <pattern>` 
 2. search by type: `-type <f|d|l|...>`
 3. search by size: `-size [+|-]<size>[c|k|M|G]`
-4. access time: `-atime <n>`
+4. name: `-name <pattern>`
 
 **`-iname <pattern>`**
  ```
@@ -127,4 +127,52 @@ find ./technical -type f
 ./technical/government/Alcohol_Problems
  ```
 
-**`-atime <n>`**
+**`-name <pattern>`**
+ ```
+find ./technical -name "*.txt"
+
+./technical/plos/pmed.0020115.txt
+./technical/plos/journal.pbio.0020147.txt
+./technical/plos/pmed.0020075.txt
+./technical/plos/pmed.0020061.txt
+./technical/plos/pmed.0020210.txt
+./technical/plos/pmed.0020238.txt
+./technical/plos/journal.pbio.0030051.txt
+./technical/plos/journal.pbio.0020068.txt
+./technical/plos/journal.pbio.0020054.txt
+./technical/plos/journal.pbio.0020040.txt
+./technical/plos/pmed.0010066.txt
+./technical/plos/journal.pbio.0030131.txt
+./technical/plos/journal.pbio.0020337.txt
+  ...so many more...
+ ```
+
+ ```
+find ./technical -name "*1.txt"
+
+./technical/government/Env_Prot_Agen/1-3_meth_901.txt
+./technical/government/Env_Prot_Agen/nov1.txt
+./technical/government/Gen_Account_Office/og96011.txt
+./technical/government/Gen_Account_Office/og97051.txt
+./technical/government/Gen_Account_Office/og97041.txt
+./technical/government/Gen_Account_Office/og96031.txt
+./technical/government/Gen_Account_Office/og96021.txt
+./technical/government/Gen_Account_Office/og98041.txt
+./technical/government/Gen_Account_Office/og97011.txt
+./technical/government/Gen_Account_Office/og96041.txt
+./technical/government/Gen_Account_Office/d02701.txt
+./technical/government/Gen_Account_Office/og97001.txt
+...so many more...
+ ```
+
+# citing sources
+I used chatGPT and here are my prompts and outputs 
+ ```
+provide command-line options for find
+ ```
+output: 
+
+ ```
+Can you show an example of using the search by size search in the command line
+ ```
+output
