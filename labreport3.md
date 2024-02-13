@@ -178,4 +178,4 @@ output:
 Can you show an example of using the search by size search in the command line
  ```
 output
-![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-02-13%20at%2010.06.30%20AM.png?raw=true)
+![Image]()
