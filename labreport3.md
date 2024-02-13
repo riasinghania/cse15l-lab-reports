@@ -1,5 +1,7 @@
+# *Ria Singhania*
+# *A17331656* 
 
-# Part 2: buggy program
+# Part 1: buggy program
 I am choosing the buggy program of `reverse`
 
 Failure Inducing Test
