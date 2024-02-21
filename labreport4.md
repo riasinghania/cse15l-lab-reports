@@ -13,7 +13,7 @@ git clone git@github.com:riasinghania/lab7.git
 ```
 
 *demonstrating the test fails*
-![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/step%205.png?raw=true)
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/step%206.png?raw=true)
 ```
 <Ctrl-R> <up> <up> <up> <up> <enter>
 <Ctrl-R> <up> <up> <up> <up> <enter>
@@ -21,9 +21,9 @@ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ...
 ```
 
-*cloning repo*
+*editing the code*
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/step%205.png?raw=true)
 ```
-<up> <up> <up> <up> <up> <enter>
-git clone git@github.com:riasinghania/lab7.git
+<: 44> <right arrow> <right arrow> <right arrow> <right arrow> <right arrow> <x> <a> <2> <esc> <:wq>
+index2 += 1;
 ```
