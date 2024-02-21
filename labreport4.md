@@ -29,10 +29,19 @@ index2 += 1;
 ```
 
 *running the tests again*
-![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/editing%20code.png?raw=true)
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/step%208.png?raw=true)
 ```
 <Ctrl-R> <up> <up> <up> <up> <enter>
 <Ctrl-R> <up> <up> <up> <up> <enter>
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ...
+```
+
+*committing the changes*
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/step%208.png?raw=true)
+```
+<Ctrl-R> <up> <up> <up> <up> <enter>
+<Ctrl-R> <up> <up> <up> <up> <enter>
+git add .
+git push
 ```
