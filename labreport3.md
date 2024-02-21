@@ -70,11 +70,13 @@ find ./technical -iname "*.txt"
 ./technical/plos/pmed.0020115.txt
   ...so many more...
 ```
+*this example is searching for all of the .txt files. It does not care whether they are capitalized or not.*
  ```
 find ./technical -iname "biomed"
 
 ./technical/biomed
  ```
+*this example is searching for all of the "biomed" files/directories within the "technical" directory. It does not care whether they are capitalized or not, however there is only one biomed directory directly under technical*
 
 **`-type <f|d|l|...>`**
  ```
@@ -90,6 +92,7 @@ find ./technical -type f
 ./technical/plos/pmed.0020115.txt
   ...so many more...
  ```
+*this example is searching for all of the files within technical. The type f specifies that we are looking for files.*
  ```
  find ./technical -type d
 
@@ -105,6 +108,7 @@ find ./technical -type f
 ./technical/biomed
 ./technical/911report
  ```
+*this example is searching for all of the directories within technical. The type d specifies that we are looking for directories.*
 
 **`-size [+|-]<size>[c|k|M|G]`**
  ```
@@ -120,7 +124,7 @@ find ./technical -type f
 ./technical/plos/pmed.0020115.txt
   ...so many more...
  ```
-
+*this example is searching for all of the files that are 100 kilobytes or less in size.*
  ```
 ./technical -size -500c
 
@@ -128,6 +132,7 @@ find ./technical -type f
 ./technical/government
 ./technical/government/Alcohol_Problems
  ```
+*this example is searching for all of the files that are 500 bytes or less in size.*
 
 **`-name <pattern>`**
  ```
@@ -148,7 +153,7 @@ find ./technical -name "*.txt"
 ./technical/plos/journal.pbio.0020337.txt
   ...so many more...
  ```
-
+*this example is searching for all of the files that have "txt" in the name. This is in a lot of files extensions so a lot are returned.*
  ```
 find ./technical -name "*1.txt"
 
@@ -166,6 +171,7 @@ find ./technical -name "*1.txt"
 ./technical/government/Gen_Account_Office/og97001.txt
 ...so many more...
  ```
+*this example is searching for all of the files that have "1.txt" in the name. This means the txt file must have 1 in the name somwhere.*
 
 # citing sources
 I used chatGPT and here are my prompts and outputs 
