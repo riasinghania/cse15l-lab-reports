@@ -1,17 +1,21 @@
+# *Ria Singhania*
+# *A17331656* 
+
+## 4
 *Log into ieng6*
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Step%204.png?raw=true)
 ```
 <up> <up> <up> <up> <up> <enter>
 ssh risinghani@ieng6.ucsd.edu
 ```
-
+## 5
 *cloning repo*
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/step%205.png?raw=true)
 ```
 <up> <up> <up> <up> <up> <enter>
 git clone git@github.com:riasinghania/lab7.git
 ```
-
+## 6
 *demonstrating the test fails*
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/step%206.png?raw=true)
 ```
@@ -20,14 +24,14 @@ git clone git@github.com:riasinghania/lab7.git
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ...
 ```
-
+## 7
 *editing the code*
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/editing%20code.png?raw=true)
 ```
 <: 44> <right arrow> <right arrow> <right arrow> <right arrow> <right arrow> <x> <a> <2> <esc> <:wq>
 index2 += 1;
 ```
-
+## 8
 *running the tests again*
 
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/step%208.png?raw=true)
@@ -37,7 +41,7 @@ index2 += 1;
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ...
 ```
-
+## 9
 *committing the changes*
 
 ![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/step%209.png?raw=true)
