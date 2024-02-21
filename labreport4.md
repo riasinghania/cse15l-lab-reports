@@ -22,8 +22,17 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 ```
 
 *editing the code*
-![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/step%205.png?raw=true)
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/editing%20code.png?raw=true)
 ```
 <: 44> <right arrow> <right arrow> <right arrow> <right arrow> <right arrow> <x> <a> <2> <esc> <:wq>
 index2 += 1;
+```
+
+*running the tests again*
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/editing%20code.png?raw=true)
+```
+<Ctrl-R> <up> <up> <up> <up> <enter>
+<Ctrl-R> <up> <up> <up> <up> <enter>
+javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
+java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ...
 ```
