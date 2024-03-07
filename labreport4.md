@@ -56,6 +56,7 @@ git push
 ```
 Git add and git push are great ways to commit the changes. I had used these commands before, so it was just a matter of using <up> arrow to get there. Git add tracks the new file, git push commits the changes. 
 
-*Discussion of all steps*
+# *Discussion of all steps*
+
 Working on the lab report taught me valuable lessons in efficiency when using command line tools alongside Vim. I found that utilizing the up arrow keystroke allowed me to quickly revisit previous commands, enhancing my workflow. By incorporating this method extensively, I improved my ability to navigate through files efficiently within Vim, ultimately boosting my productivity in the process.
 
