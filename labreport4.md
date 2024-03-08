@@ -54,7 +54,7 @@ I had previously used bash.sh to run the tests. Therefore using the <up> arrow I
 git add .
 git push
 ```
-Git add and git commit are great ways to commit the changes. I had used these commands before, so it was just a matter of using <up> arrow to get there. Git add tracks the new file, git commit pushes the changes onto the newly tracked file. I also added the message `"index1 changed to index2"` 
+Git add and git commit are great ways to commit the changes. I had used these commands before, so it was just a matter of using <up> arrow to get there. Git add tracks the new file, git commit pushes the changes onto the newly tracked file. I also added the message `index1 changed to index2` 
 
 # *Discussion of all steps*
 
