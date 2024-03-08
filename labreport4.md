@@ -47,14 +47,14 @@ I had previously used bash.sh to run the tests. Therefore using the <up> arrow I
 ## 9
 *committing the changes*
 
-![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/step%209.png?raw=true)
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/git%20add%20and%20git%20commit%20changes.png?raw=true)
 ```
 <Ctrl-R> <up> <up> <up> <up> <enter>
 <Ctrl-R> <up> <up> <up> <up> <enter>
 git add .
 git push
 ```
-Git add and git push are great ways to commit the changes. I had used these commands before, so it was just a matter of using <up> arrow to get there. Git add tracks the new file, git push commits the changes. 
+Git add and git commit are great ways to commit the changes. I had used these commands before, so it was just a matter of using <up> arrow to get there. Git add tracks the new file, git commit pushes the changes onto the newly tracked file. I also added the message `"index1 changed to index2"` 
 
 # *Discussion of all steps*
 
