@@ -2,7 +2,7 @@
 
 Student: I am trying to run the test.sh file to test out the ListExamples.java file. I am getting this bug but do not really know what it means or how to fix it? I assume that it has to do with something taking too long. How do I approach figuring out what to fix in ListExamples.java?
 
-![Image](http://url/a.png)
+![Image](https://github.com/riasinghania/cse15l-lab-reports/blob/main/Screen%20Shot%202024-03-09%20at%201.58.13%20PM.png?raw=true)
 
 TA response: You are on the right track with that thinking! If this the case of an infinite loop let’s say, from what type of loops could those occur and do you have any in ListExamples.java (hint: From the stack trace they gave us the line number 42 in the ListExamples class)
 
